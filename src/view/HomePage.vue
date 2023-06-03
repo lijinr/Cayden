@@ -22,12 +22,12 @@
       </div>
     </div>
     <!-- 大数据管理系统 -->
-    <div id="bigData" class="container-fuild">
-      <div class="row bigData-container">
-        <div class="col-xs-12 col-sm-12 col-md-6 wow zoomIn">
+    <!-- <div id="bigData" class="container-fuild"> -->
+      <!-- <div class="row bigData-container"> -->
+        <!-- <div class="col-xs-12 col-sm-12 col-md-6 wow zoomIn">
           <img class="img-responsive" src="@/assets/img/img1.png" alt="大数据管理系统">
-        </div>
-        <div class="col-xs-12 col-sm-12 col-md-6">
+        </div> -->
+        <!-- <div class="col-xs-12 col-sm-12 col-md-6">
           <h2 class="bigData-title">
             大数据管理系统
             <small>/ Big Data Management System</small>
@@ -36,13 +36,13 @@
           <p>我们的流线式网页布局设计方案和可视化图文内容编辑模式让网站制作和维护成为一件轻松惬意的事。无论您是普通互联网用户，还是专业网站制作人员。</p>
           <h2 class="bigData-device">PC/PAD/Phone &nbsp; 全设备支持</h2>
           <a href="#" class="btn btn-lg btn-block btn-info">联系我们</a>
-        </div>
-      </div>
-    </div>
+        </div> -->
+      <!-- </div> -->
+    <!-- </div> -->
     <!-- 您身边的IT专家 -->
     <div id="contactUs" class="container-fuild text-center">
       <div class="container contactUs-container wow slideInUp">
-        <h1>您身边的IT专家</h1>
+        <h1>AI模型定制</h1>
         <h3>7x24小时提供出色的IT服务</h3>
         <button
           class="btn btn-default btn-sm"
